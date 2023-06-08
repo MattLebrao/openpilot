@@ -1495,7 +1495,7 @@ FW_VERSIONS = {
     (Ecu.unknown, 0x18DAB3F1, None): [
      b'36162-T50-E020\x00\x00',
     ],
-  }
+  },
   CAR.ACURA_ILX: {
     (Ecu.gateway, 0x18daeff1, None): [
       b'38897-TX6-A010\x00\x00',
