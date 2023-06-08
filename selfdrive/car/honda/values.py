@@ -1449,6 +1449,7 @@ FW_VERSIONS = {
     ],
     (Ecu.programmedFuelInjection, 0x18DA10F1, None): [
       b'37805-6CT-A710\x00\x00',
+      b'37805-6HG-M630\x00\x00',
     ],
     (Ecu.electricBrakeBooster, 0x18DA2BF1, None): [
       b'46114-3W0-A020\x00\x00',
