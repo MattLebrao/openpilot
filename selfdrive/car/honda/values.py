@@ -1472,9 +1472,9 @@ FW_VERSIONS = {
     (Ecu.fwdRadar, 0x18DAB0F1, None): [
     # b'\x18EA91230FFFF0122348000473\x00\x00\x00\x00\x00\x00',
     ],
-    (Ecu.unknown, 0x18DAB3F1, None): [
+    #(Ecu.unknown, 0x18DAB3F1, None): [
     # b'36162-T50-E020\x00\x00',
-    ],
+    #],
   },
   CAR.ACURA_ILX: {
     (Ecu.gateway, 0x18daeff1, None): [
